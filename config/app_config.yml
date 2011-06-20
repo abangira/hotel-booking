@@ -1,10 +1,10 @@
-hotel_name: 'Hotel Sahara'
-hotel_logo: 'hotel_sahara.png'
-hotel_address_line1: 'Near Bank of Baroda, Ambethan Chowk'
-hotel_address_line2: 'Pune Nasik Road, Chakan'
-hotel_address_line3: 'Maharashtra - 410501'
-hotel_email: 'info@hotelsahara.in'
-hotel_website: 'http://www.hotelsahara.in'
-hotel_phone: '02135 249036, 9850572491'
-hotel_time_zone: "Asia/Kolkata"
+hotel_name: 'One Hill Motel Sarl'
+hotel_logo: 'one_hill_motel.JPG'
+hotel_address_line1: 'Near Kisimenti, Remera'
+hotel_address_line2: 'Ubwiza Avenue'
+hotel_address_line3: 'Kigali'
+hotel_email: 'info@onehillmotel.com'
+hotel_website: 'http://www.onehillmotel.com'
+hotel_phone: '+250 788849494'
+hotel_time_zone: "Africa/Cairo"
 hotel_checkout_hour: 12

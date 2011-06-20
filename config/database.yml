@@ -11,8 +11,8 @@ development:
   reconnect: false
   database: hotelonrails
   pool: 5
-  username: dbuser
-  password: 
+  username: root
+  password: "123"
   socket: /var/run/mysqld/mysqld.sock
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
